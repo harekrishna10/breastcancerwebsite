@@ -65,7 +65,7 @@ Breast_Cancer_SVM/
 ## 🚀 How to Run
 
 1) Clone the repository:
-git clone https://github.com/your-username/breastcancerwebsite.git
+git clone https://github.com/harekrishna10/breastcancerwebsite.git
 
 2) Go to the project folder:
 cd breastcancerwebsite
